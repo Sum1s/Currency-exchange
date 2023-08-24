@@ -2,3 +2,7 @@ body {
     background-color: azure;
 
 }
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
