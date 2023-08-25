@@ -6,3 +6,8 @@ body {
 * {
     font-family: 'Noto Sans', sans-serif;
 }
+
+.name {
+    color: white;
+    text-align: center;
+}
